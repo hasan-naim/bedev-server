@@ -1,0 +1,38 @@
+[
+  {
+    "id": "01",
+    "name": "Html",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcYuZypw0R-VvOCkaT2-vqbYpdPaMP6oanug&usqp=CAU",
+    "description": "HTML is the standard markup idioma for Web pages. With HTML you can create your own Website."
+  },
+  {
+    "id": "02",
+    "name": "Css",
+    "img": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg",
+    "description": "CSS is the language we use to style an HTML document. CSS describes how HTML elements should be displayed."
+  },
+  {
+    "id": "03",
+    "name": "Javascript",
+    "img": "https://cms.rootstack.com/sites/default/files/inline-images/javascript%20logo_0.png",
+    "description": "JavaScript is the world's most popular programming language. JavaScript is the programming language of the Web."
+  },
+  {
+    "id": "04",
+    "name": "React Js",
+    "img": "https://www.datocms-assets.com/14946/1638186862-reactjs.png?auto=format&w=1000",
+    "description": "React makes it painless to create interactive UIs. · Component-Based. Build encapsulated components that manage their own state."
+  },
+  {
+    "id": "05",
+    "name": "Node Js",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png",
+    "description": "Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine."
+  },
+  {
+    "id": "06",
+    "name": "Express",
+    "img": "https://initialcommit.com/img/initialcommit/beginners-guide-to-using-express-js-and-node-js-framework.png",
+    "description": "Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications."
+  }
+]
